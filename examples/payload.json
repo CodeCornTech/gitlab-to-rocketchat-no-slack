@@ -1,0 +1,11 @@
+{
+  "alias": "GitLab",
+  "text": "✅ GitLab → Rocket.Chat: incoming webhook is working!",
+  "attachments": [
+    {
+      "title": "Connection test",
+      "text": "This message tests Rocket.Chat reception only. Use GitLab's Test settings to verify the full integration.",
+      "color": "#16A085"
+    }
+  ]
+}

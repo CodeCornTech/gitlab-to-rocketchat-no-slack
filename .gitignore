@@ -1,0 +1,16 @@
+# Sensitive local files
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*token*
+*secret*
+
+# Tooling and OS
+.DS_Store
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.vscode/
+.idea/
